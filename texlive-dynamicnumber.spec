@@ -1,6 +1,6 @@
 Name:		texlive-dynamicnumber
 Version:	38726
-Release:	1
+Release:	2
 Summary:	Dynamically typeset numbers and values in LaTeX through "symbolic links"
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/dynamicnumber
