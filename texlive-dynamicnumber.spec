@@ -3,7 +3,7 @@ Version:	38726
 Release:	2
 Summary:	Dynamically typeset numbers and values in LaTeX through "symbolic links"
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/dynamicnumber
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/dynamicnumber
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/dynamicnumber.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/dynamicnumber.doc.r%{version}.tar.xz
